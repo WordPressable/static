@@ -1,0 +1,2 @@
+# static
+WordPressable Static Site
